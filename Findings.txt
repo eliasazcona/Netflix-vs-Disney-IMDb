@@ -1,0 +1,27 @@
+1. Movies dominates both streaming platforms, 
+accounting for more than 70% of the content.
+
+2. ﻿﻿TV Shows on Netflix started trending up on Tuesday, January 1, 2013, 
+rising by 400.00% (252) in 8 years.﻿﻿
+
+3. On Disney+, Movies and TV Shows diverged the most when the Release Year was 2020, 
+when Movies were 34 higher than TV Shows.﻿﻿
+﻿
+4. TV-MA and TV-14 are the most common ratings for movies and TV Shows on Netflix;
+in contrast, the most commom ratings on Disney+ were TV-G for movies and TV-PG for TV-shows. 
+G & PG ratings are used only for movies. 
+
+5. United States dominates in both datasets, but Netflix is more global.
+
+6. On Disney+, the ﻿IMDb rating was highest for Hamilton at 8.60, followed by The Lion King and Coco.﻿﻿
+﻿﻿Across all the 44 titles, IMDb Rating ranged from 7.60 to 8.60.﻿﻿ 
+
+7. On Netflix, the top 3 titles all had an IMDb rating of 8.90.﻿﻿ ﻿﻿Across all 174 title, 
+the IMDb rating ranged from 7.60 to 8.90.﻿﻿
+﻿
+*Based on the Top 1000 Movies and TV shows from IMDb.
+﻿
+﻿ 
+﻿
+
+
